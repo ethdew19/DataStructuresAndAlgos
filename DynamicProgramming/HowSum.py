@@ -3,5 +3,5 @@
 #If there is no combination that adds up to the target, return None. If there are multiple combinations that work, return any one
 
 def howSum(targetSum, numbers):
-    
+    pass
 
