@@ -17,3 +17,5 @@ def shift_right_y_times(x,y):
 print(shift_right_y_times(0b1100, 1))
 # 0010101 -> 0000001
 print(shift_right_y_times(0b0010101,4))
+
+
