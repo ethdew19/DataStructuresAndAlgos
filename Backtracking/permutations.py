@@ -1,5 +1,5 @@
 #Find all permutations of a list
-
+#Solution credit: neetcode 150
 def perms(list):
     res = []
 
